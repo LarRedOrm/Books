@@ -15,6 +15,8 @@ $ git clone https://github.com/LarRedOrm/D6T D:/Larionov/test
 
 $ git clone http://10.10.1.33/git/can.git D:/Larionov/Projects/Keil_v5/CAN
 
+
+$ git clone http://10.10.1.33/git/R2_modules.git D:/Larionov/test
 //-----------------------------------------------------------------------------------------
 
 //-----------------------------------------------------------------------------------------
@@ -129,3 +131,8 @@ git config core.editor notepad
 
 
 
+Исправлен баг в загрузчике связанный с поиском аппаратной ревизии, добавлена бегущая строка.
+
+
+
+git push origin master
